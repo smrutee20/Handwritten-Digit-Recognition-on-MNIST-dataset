@@ -5,7 +5,9 @@
 - There are 70,000 images and each image has 784 features.
 - Each image is 28 X 28 pixels, and each feature simply represent one pixel's intensity, from 0 (white) to 255 (black)
 
- **Classification Drawbacks**:  
+
+
+ # Classification Drawbacks  
    - Can be biased towards majority classes.
    - Struggles with imbalanced data.
    - Sensitive to outliers.
